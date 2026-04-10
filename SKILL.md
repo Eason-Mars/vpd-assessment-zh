@@ -1,3 +1,7 @@
+---
+name: vpd-assessment-zh
+description: 使用 Strategyzer VPD 框架诊断项目的价值主张质量和商业模式强度。触发词："这个产品有市场吗？"、"客户真的需要这个吗？"、顾问项目 DD/可行性评估、新项目 VP-Market Fit 风险评估。
+---
 # vpd-assessment — 价值主张诊断框架
 版本：1.1.0
 作者：Eason Zhang, Mars
